@@ -1,26 +1,3 @@
-/*
-<div class="product">
-    <div class="content">
-        <img
-        class="product-img"
-        src="images/image-product-1-thumbnail.jpg"
-        alt=""
-        />
-        <p>
-        Fall Limited Edition sneakers $125 × 3 <span>$375</span>
-        </p>
-        <img
-        class="delete-icon"
-        src="images/icon-delete.svg"
-        alt=""
-        />
-    </div>
-    <div class="check-out">
-        <div class="btn">Checkout</div>
-    </div>
-</div>
-*/
-
 let proCount = document.querySelector(".before");
 let cartIocn = document.querySelector(".cart-img");
 let cart = document.querySelector(".drop-down");
